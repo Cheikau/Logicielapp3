@@ -19,3 +19,10 @@ class Couleur {
   }
 }
 
+void main() {
+  // Création de trois objets.
+  var rouge = Couleur.rouge();
+  var vert = Couleur.vert();
+  var bleu = Couleur.bleu();
+
+}
